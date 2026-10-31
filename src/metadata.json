@@ -1,0 +1,26 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Marco Martin",
+                "Email": "mart@kde.org"
+            },
+            {
+                "Name": "yceachan",
+                "Task": "Application overflow and drag-and-drop; modified 2026-10-31"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Description": "Official Plasma tray with draggable application overflow",
+        "Description[zh_CN]": "基于官方托盘，支持应用图标拖拽收纳与排序",
+        "EnabledByDefault": false,
+        "Icon": "preferences-desktop-notification",
+        "License": "GPL-2.0+",
+        "Name": "Windows-style System Tray",
+        "Name[zh_CN]": "折叠系统托盘",
+        "Version": "0.1.0",
+        "Website": "https://github.com/yceachan/kde-sys-tray"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-ContainmentType": "CustomEmbedded"
+}

@@ -1,0 +1,5 @@
+// SPDX-FileCopyrightText: 2026 yceachan
+// SPDX-License-Identifier: GPL-2.0-or-later
+
+// Plasma's cross-platform coordinate handling also supports X11 clients.
+#define HAVE_X11 1
